@@ -1,0 +1,24 @@
+# Track only the files required for this project.
+/*
+!/.gitignore
+!/README.md
+!/requirements.txt
+!/app.py
+!/load_data.py
+!/queries.py
+!/charts.py
+!/case_studies.py
+!/schema.sql
+!/.streamlit/
+/.streamlit/*
+!/.streamlit/config.toml
+!/assets/
+/assets/*
+!/assets/india_states.geojson
+!/assets/india_districts.geojson
+!/assets/SOURCES.md
+!/data/
+/data/*
+!/data/phonepe.db
+!/data/source.json
+!/data/PHONEPE_DATA_LICENSE.txt
